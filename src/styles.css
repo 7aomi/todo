@@ -51,11 +51,10 @@ li {
   align-items: center;
   margin-bottom: 12px;
 }
-.list-row:nth-child(n + 2) {
-}
 .input-area,
 .imcomplete-area,
 .complete-area {
+  transition: 0.2s;
   padding: 10px;
   border-radius: 12px;
   margin-bottom: 8px;
